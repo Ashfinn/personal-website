@@ -1,6 +1,6 @@
 ---
-title: "Secondary Portfolio"
-excerpt: "Secondary Personal Portfolio Website<br/><img src='/images/secondary_portfolio.png'>"
+title: "Secondary Personal Portfolio Website"
+excerpt: "<br/><img src='/images/secondary_portfolio.png'>"
 collection: portfolio
 ---
 
