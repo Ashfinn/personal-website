@@ -2,13 +2,13 @@
 main:
   - title: "Projects"
     url: /portfolio/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  
   - title: "Resume" 
     url: /files/resume.pdf
   
+  - title: "Blog Posts"
+    url: /year-archive/
+
   - title: "Publications"
     url: /publications/
 
