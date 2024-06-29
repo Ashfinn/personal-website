@@ -7,25 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I’m a final year graduate student at the TU Berlin.
+<div style="display: flex;">
+  <div style="flex: 1;">
+    | 👨🏻‍💻 I’m a final year graduate student at the TU Berlin. |
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+    | 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning! |
 
-📚 I’m currently working towards my Master’s Thesis in the field of Vision-Language-Modelling.
+    | 📚 I’m currently working towards my Master’s Thesis in the field of Vision-Language-Modelling. |
 
-![about section](../images/about.jpg)
-
-.
-
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
-
-|  👨🏻‍💻‍  I'm a final year graduate student at the TU Berlin. | 🔬  My research interests are in bridging vision and language modalities and Self-Supervised Learning! |
-|---|---|
-| 📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling. | ![about section](../images/about.jpg) |
-.
-
-| ️📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia. |  |
+    | 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia. |
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <img src="../images/about.jpg" alt="about section" style="max-width: 100%;">
+  </div>
+</div>
 
 **Selected Experience**
 🤖 **Open Source Contributions**
