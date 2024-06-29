@@ -15,3 +15,5 @@ Lucky Shrub was founded by Ashfin and Madoka, a passionate husband-and-wife team
 ## Website Overview
 
 The Lucky Shrub Website is designed to showcase the beauty of their work, connect with potential clients, and provide information about their services and plant offerings. 
+
+**Website Link: https://ashfinn.github.io/Lucky-Shrub/**

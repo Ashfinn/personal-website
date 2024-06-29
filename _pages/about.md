@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I’m Obidur Rahman!"
+title: "Hello there, I’m Obidur Rahman!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<br>
 <p style="border: 1px solid black; padding: 10px; margin: 10px"> 👨🏻‍💻 I’m a second-year bachelor's student studying Mathematics at the University of Chittagong. </p>
 <p style="border: 1px solid black; padding: 10px; margin: 10px"> 🔬 My research interests are in algorithm development and Quantum Machine Learning!</p>
 <p style="border: 1px solid black; padding: 10px; margin: 10px"> 📚 I am actively involved in developing multiple open source projects. </p>

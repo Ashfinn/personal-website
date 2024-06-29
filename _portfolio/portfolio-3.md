@@ -4,7 +4,6 @@ excerpt: "Simple HTTP Server implementation in Python<br/>"
 collection: portfolio
 ---
 
-# httPY
 [![progress-banner](https://backend.codecrafters.io/progress/http-server/1d701c87-bf62-433b-9c42-d59e3e1422d2)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
 
 This is a solution to the
@@ -51,3 +50,5 @@ This roadmap outlines the planned enhancements and features for the httPY projec
 - [ ] Implement extensive error handling and logging.
 - [ ] Write unit tests to ensure code reliability and maintainability.
 - [ ] Refactor code for better readability and performance.
+
+**project link: https://github.com/Ashfinn/httPY**
