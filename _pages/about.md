@@ -7,28 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; border: 1px solid black; padding: 10px;">
-  <div style="flex: 1; border-right: 1px solid black; padding-right: 10px;">
-    <p>| 👨🏻‍💻 I’m a final year graduate student at the TU Berlin. |</p>
-    <p>| 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning! |</p>
-    <p>| 📚 I’m currently working towards my Master’s Thesis in the field of Vision-Language-Modelling. |</p>
-    <p>| 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia. |</p>
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-    <img src="../images/about.jpg" alt="about section" style="max-width: 100%;">
-  </div>
-</div>
+
+<p style="border: 1px solid black; padding: 10px;";> 👨🏻‍💻 I’m a second-year bachelor's student studying Mathematics at the University of Chittagong. </p>
+<p style="border: 1px solid black; padding: 10px;"> 🔬 My research interests are in algorithm development and Quantum Machine Learning!</p>
+<p style="border: 1px solid black; padding: 10px;"> 📚 I am actively involved in developing multiple open source projects. </p>
+<p style="border: 1px solid black; padding: 10px;"> 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia. </p>
 
 
 **Selected Experience**
 🤖 **Open Source Contributions**
-I have experience contributing to Kubernetes a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+* I have experience contributing to Kubernetes, a large open-source project for automating deployment, scaling, and management of containerized applications.
 
-Moreover, I have published a respective paper at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+* I have also contributed to the development of multiple open source applications on GitHub.
 
 👨🏻‍🔬 **Professional Experience**
-Currently I am a 2nd year Bachelos Student at University of Chittagong studying Pure Mathematics. Additionally, I have experience working in Machine Learning and plan on being a Student Researcher in Machine Learning.
-I am also learning Quantum Computing to pursue research.
+* Currently a second-year Bachelor's student at the University of Chittagong, studying Pure Mathematics.
+
+* Experienced in Machine Learning and aspiring to become a Student Researcher.
+
+* Learning Quantum Computing for future research endeavors.
 
 📚 **Teaching and Community Contributions**
-To further contribute to the Machine Learning community, I have a YouTube channel and a Hashnode Blogging account where I publish educational Machine Learning content.
+* I have a YouTube channel and Hashnode Blog where I share educational content on Machine Learning and all things Mathematics.
