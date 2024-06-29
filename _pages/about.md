@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<p style="border: 1px solid black; padding: 10px;";> 👨🏻‍💻 I’m a second-year bachelor's student studying Mathematics at the University of Chittagong. </p>
+<p style="border: 1px solid black; padding: 10px;"> 👨🏻‍💻 I’m a second-year bachelor's student studying Mathematics at the University of Chittagong. </p>
 <p style="border: 1px solid black; padding: 10px;"> 🔬 My research interests are in algorithm development and Quantum Machine Learning!</p>
 <p style="border: 1px solid black; padding: 10px;"> 📚 I am actively involved in developing multiple open source projects. </p>
 <p style="border: 1px solid black; padding: 10px;"> 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia. </p>
