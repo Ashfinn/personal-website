@@ -7,20 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    | 👨🏻‍💻 I’m a final year graduate student at the TU Berlin. |
-
-    | 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning! |
-
-    | 📚 I’m currently working towards my Master’s Thesis in the field of Vision-Language-Modelling. |
-
-    | 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia. |
+<div style="display: flex; border: 1px solid black; padding: 10px;">
+  <div style="flex: 1; border-right: 1px solid black; padding-right: 10px;">
+    <p>| 👨🏻‍💻 I’m a final year graduate student at the TU Berlin. |</p>
+    <p>| 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning! |</p>
+    <p>| 📚 I’m currently working towards my Master’s Thesis in the field of Vision-Language-Modelling. |</p>
+    <p>| 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia. |</p>
   </div>
-  <div style="flex: 1; padding-left: 20px;">
+  <div style="flex: 1; padding-left: 10px;">
     <img src="../images/about.jpg" alt="about section" style="max-width: 100%;">
   </div>
 </div>
+
 
 **Selected Experience**
 🤖 **Open Source Contributions**
