@@ -11,6 +11,8 @@ This is a solution to the
 
 A simple HTTP server implemented in Python that handles basic HTTP requests and responds according to specified endpoints.
 
+**[project link](https://imdb-sentiment-analyzer.streamlit.app/)**
+
 ## Description
 
 This Python script sets up a basic HTTP server that can handle incoming requests and respond accordingly. It currently supports several endpoints:
@@ -50,5 +52,3 @@ This roadmap outlines the planned enhancements and features for the httPY projec
 - [ ] Implement extensive error handling and logging.
 - [ ] Write unit tests to ensure code reliability and maintainability.
 - [ ] Refactor code for better readability and performance.
-
-**project link: https://github.com/Ashfinn/httPY**
