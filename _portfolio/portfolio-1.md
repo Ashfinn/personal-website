@@ -6,7 +6,7 @@ collection: portfolio
 
 **Check the Preview :** [Link to the App](https://imdb-sentiment-analyzer.streamlit.app/)
 
-This app uses a machine learning model to analyze the sentiment. Enter a text and click "Analyze" to see if the sentiment is positive or negative.
+This app uses a machine learning model to analyze the sentiment of your movie review. Enter a text and click "Analyze" to see if the sentiment is positive or negative.
 
 ## How It Works
 1. **Preprocessing**: The input review is preprocessed to remove HTML tags, punctuation, and stopwords, and then stemmed.
